@@ -29,7 +29,7 @@
 
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/_drd_d.i.b.y.a_007/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/dibya-ranjan-dash-20a857218?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BO1Yxhfi5SnGOByoOxs8XOQ%3D%3D" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="dash.dibya007@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
