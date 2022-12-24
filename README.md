@@ -14,7 +14,7 @@
 - 💻 &nbsp; Python | Java | C | C++
 - 🌐 &nbsp; Machine Learning | NumPy | Pandas | Matplotlib | Data Analysis | Visualization
 - 🔧 &nbsp; Anaconda | PyCharm | Visual Studio code | Jupyter | Git
-- 🖥 &nbsp; Adobe Xd | Photoshop | Photography
+- 🖥 &nbsp; Adobe Xd | Photoshop | Photography | Canva | Prezi |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIBYARANJANDASH&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
