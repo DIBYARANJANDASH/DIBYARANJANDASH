@@ -12,10 +12,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C | C++
-- 🌐 &nbsp; Machine Learning | NumPy | Pandas | Matplotlib | Data Analysis | Visualization
+- 💻 &nbsp; Python | C
+- 🌐 &nbsp; Machine Learning | NumPy | Pandas | Matplotlib | Data Analysis | Visualization | HTML | CSS
 - 🔧 &nbsp; Anaconda | PyCharm | Visual Studio code | Jupyter | Git
-- 🖥 &nbsp; Adobe Xd | Photoshop | Photography | Canva | Prezi |
+- 🖥 &nbsp; Adobe Xd | Photoshop | Photography | Canva 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIBYARANJANDASH&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
