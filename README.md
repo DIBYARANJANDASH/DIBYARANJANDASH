@@ -12,9 +12,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C
-- 🌐 &nbsp; Machine Learning | NumPy | Pandas | Matplotlib | Data Analysis | Visualization | HTML | CSS
-- 🔧 &nbsp; Anaconda | PyCharm | Visual Studio code | Jupyter | Git
+- 💻 &nbsp; Python | Gen AI
+- 🌐 &nbsp; Machine Learning | NumPy | Pandas | Matplotlib | Data Analysis | Visualization | Deep Learning
+- 🔧 &nbsp; Anaconda | PyCharm | Visual Studio code | Jupyter | Git | Flask | Power BI
 - 🖥 &nbsp; Adobe Xd | Photoshop | Photography | Canva 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIBYARANJANDASH&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
