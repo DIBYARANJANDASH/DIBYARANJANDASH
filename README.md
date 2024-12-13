@@ -5,16 +5,16 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science in Silicon Institute of Technology
+- 🎓 &nbsp; B.Tech Graduate in Computer Science from Silicon University
 - 💼 &nbsp; Data Science Enthusiast.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Gen AI
-- 🌐 &nbsp; Machine Learning | NumPy | Pandas | Matplotlib | Data Analysis | Visualization | Deep Learning
-- 🔧 &nbsp; Anaconda | PyCharm | Visual Studio code | Jupyter | Git | Flask | Power BI
+- 💻 &nbsp; Python | Gen AI | Java | SpringBoot
+- 🌐 &nbsp; Machine Learning | NumPy | Pandas | Matplotlib | Data Analysis | Visualization | Deep Learning | HuggingFace Models
+- 🔧 &nbsp; Anaconda | PyCharm | Visual Studio code | Jupyter | Git | Flask | Power BI | BigQuery | Looker Studio | Google Cloud
 - 🖥 &nbsp; Adobe Xd | Photoshop | Photography | Canva 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIBYARANJANDASH&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
